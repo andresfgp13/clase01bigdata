@@ -1,7 +1,7 @@
 # clase01bigdata
 
 bienvenido a big data !!!
-![hola!](https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec)
+![hola!](https://github.com/andresfgp13/clase01bigdata/commit/b2ca2ef7b69744e4ac3bd3ee40f9c5485c2392a6)
 
 descripcion:
 clase del big data del semestre 1
