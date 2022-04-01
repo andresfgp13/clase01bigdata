@@ -1,7 +1,8 @@
 # clase01bigdata
 
 bienvenido a big data !!!
-![hola!](https://github.com/andresfgp13/clase01bigdata/commit/b2ca2ef7b69744e4ac3bd3ee40f9c5485c2392a6)
+
+![hola!](https://github.com/andresfgp13/clase01bigdata/blob/main/amongus.jpg)
 
 descripcion:
 clase del big data del semestre 1
