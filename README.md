@@ -1,2 +1,7 @@
 # clase01bigdata
-clase 01
+
+descripcion:
+clase del big data del semestre 1
+
+## clase 1
+
